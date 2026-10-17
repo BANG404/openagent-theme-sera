@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-sera",
-  "version": "1.1.0",
-  "description": "Sera: sera / taupe / taupe / taupe",
+  "version": "1.1.1",
+  "description": "A warm taupe theme with 14px text and subtle rounded corners; supports light and dark modes.",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-sera",
   "homepage": "https://ui.shadcn.com/create",
@@ -141,12 +141,12 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "Sera",
-            "description": "Sera: sera / taupe / taupe / taupe"
+            "display_name": "Sera Warm Gray Theme",
+            "description": "A warm taupe theme with 14px text and subtle rounded corners; supports light and dark modes."
           },
           "zh": {
-            "display_name": "Sera",
-            "description": "Sera 主题：sera / taupe / taupe / taupe"
+            "display_name": "Sera 暖灰主题",
+            "description": "暖灰褐配色，搭配 14px 字号和轻微圆角，支持浅色与深色模式。"
           }
         }
       },

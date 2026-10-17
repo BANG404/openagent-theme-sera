@@ -1,8 +1,8 @@
-# Sera
+# Sera Warm Gray Theme
 
-Sera: sera / taupe / taupe / taupe
+A warm taupe theme with 14px text and subtle rounded corners; supports light and dark modes.
 
-Install this directory or its release archive in OpenAgent Plugins, then select Sera in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
+Install this directory or its release archive in OpenAgent Plugins, then select Sera Warm Gray Theme in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
 
 Requires the OpenAgent theme-fonts-v1 capability. This is a Svelte/Bits UI adaptation of the upstream visual grammar; React component libraries and icon libraries are not switched by a theme. Fonts and licenses are bundled in this plugin under fonts/ and work offline; CJK glyphs use system fallbacks.
 
