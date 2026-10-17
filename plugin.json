@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-sera",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sera: sera / taupe / taupe / taupe",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-sera",
@@ -121,7 +121,7 @@
       "i18n": {
         "supported_locales": [
           "en",
-          "zh-CN"
+          "zh"
         ],
         "default_locale": "en",
         "translations": {
@@ -129,7 +129,7 @@
             "display_name": "Sera",
             "description": "Sera: sera / taupe / taupe / taupe"
           },
-          "zh-CN": {
+          "zh": {
             "display_name": "Sera",
             "description": "Sera 主题：sera / taupe / taupe / taupe"
           }
