@@ -1,0 +1,11 @@
+# Sera
+
+Sera: sera / taupe / taupe / taupe
+
+Install this directory or its release archive in OpenAgent Plugins, then select Sera in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
+
+Requires the OpenAgent semantic theme implementation (0.84 or later). This is a Svelte/Bits UI adaptation of the upstream visual grammar; React component libraries and icon libraries are not switched by a theme. Fonts are bundled by OpenAgent and work offline; CJK glyphs use system fallbacks.
+
+recipe.json records every independent mix option. provenance.json pins the MIT-licensed shadcn source. This package contains no scripts, remote fonts, or executable stylesheets.
+
+Publish plugin.json, recipe.json, provenance.json, LICENSE, and this README as a GitHub release archive; keep the manifest repository and version aligned with the release.
