@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-sera",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Sera: sera / taupe / taupe / taupe",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-sera",
@@ -22,7 +22,8 @@
           "max": 1
         },
         "features": [
-          "theme-v1"
+          "theme-v1",
+          "theme-fonts-v1"
         ]
       },
       "theme": {
@@ -116,7 +117,21 @@
           "--menu-foreground": "var(--popover-foreground)",
           "--menu-accent": "var(--accent)",
           "--menu-accent-foreground": "var(--menu-foreground)"
-        }
+        },
+        "fonts": [
+          {
+            "family": "Noto Sans Variable",
+            "entry": "fonts/noto-sans.woff2",
+            "weight": "100 900",
+            "style": "normal"
+          },
+          {
+            "family": "Playfair Display Variable",
+            "entry": "fonts/playfair-display.woff2",
+            "weight": "100 900",
+            "style": "normal"
+          }
+        ]
       },
       "i18n": {
         "supported_locales": [
